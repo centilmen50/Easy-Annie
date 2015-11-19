@@ -1,0 +1,14 @@
+C:\Users\Mertss\Desktop\Üzerinde Çalıştığım Addonalr\Easy Annie\bin\Debug\EasyAnnie.exe.config
+C:\Users\Mertss\Desktop\Üzerinde Çalıştığım Addonalr\Easy Annie\bin\Debug\EasyAnnie.exe
+C:\Users\Mertss\Desktop\Üzerinde Çalıştığım Addonalr\Easy Annie\bin\Debug\EasyAnnie.pdb
+C:\Users\Mertss\Desktop\Üzerinde Çalıştığım Addonalr\Easy Annie\bin\Debug\EloBuddy.dll
+C:\Users\Mertss\Desktop\Üzerinde Çalıştığım Addonalr\Easy Annie\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Mertss\Desktop\Üzerinde Çalıştığım Addonalr\Easy Annie\bin\Debug\SharpDX.dll
+C:\Users\Mertss\Desktop\Üzerinde Çalıştığım Addonalr\Easy Annie\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Mertss\Desktop\Üzerinde Çalıştığım Addonalr\Easy Annie\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mertss\Desktop\Üzerinde Çalıştığım Addonalr\Easy Annie\obj\Debug\EasyAnnie.csprojResolveAssemblyReference.cache
+C:\Users\Mertss\Desktop\Üzerinde Çalıştığım Addonalr\Easy Annie\obj\Debug\EasyAnnie.exe
+C:\Users\Mertss\Desktop\Üzerinde Çalıştığım Addonalr\Easy Annie\obj\Debug\EasyAnnie.pdb
+C:\Users\Mertss\Desktop\Easy Annie\bin\Debug\EasyAnnie.exe.config
+C:\Users\Mertss\Desktop\Easy Annie\obj\Debug\EasyAnnie.exe
+C:\Users\Mertss\Desktop\Easy Annie\obj\Debug\EasyAnnie.pdb
